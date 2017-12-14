@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\510eb16c62755f14c445ae272b70d437616eafbb\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-0a8f167a9fed14caa4514c751aaee208b4a06725.jar" />
+    </item>
+    <item
+        jar="F:\AndroidDevForStudio\Android\sdk\platforms\android-26\optional\org.apache.http.legacy.jar"
+        revision="26.0.0"
+        sha1="d5b8c556427a60ed5f7f0abc415555de7bbba1ad">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-fd44d017bd4da6613639d272965ab912fa3cbda7.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\401fdb4ba3213fe6d15e7c69bfba4c68110f3a8d\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-1622f952df6be00ab82f25c5808966df0b104210.jar" />
+    </item>
+    <item
+        jar="F:\AndroidDevForStudio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-26.0.0-alpha1-ee634697001b8de9bd45e5416cd4f6a5cce95f9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\13a538ea5b9e3c28cff9cfc9311032283ec8c2cc\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ed64d6e6fdf0d705c72483770bb2a5d8ec88c4a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\803804c27221b50278b18d8fa87b9d542b2d2ada\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a72a12cab9af776d461f85a1b0407ae609a8e739.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\6b6ba83c73962daa5d275fef7f1115a65f279f74\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a7769274d4830819f484831439dddd1329149ed3.jar" />
+    </item>
+    <item
+        jar="F:\Company\PayTool\app\libs\alipaySdk-20170309.jar"
+        revision="26.0.0"
+        sha1="2ce6c8d7e908b41b0c93c56169bec0de994d7a3d">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\alipaySdk-20170309-c751a5ff75d9ba344f091091d2e8a7b9f8a7003f.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\b25facf1921d9035839bf70a9f31e8b39aa1b9a8\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-6cdfb25c9310e2259162dbd3d2caf9557ef5507b.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\5be9a312086e51d9903462f08f7a2b6a51e73181\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-bc7b23ebd1ecff1dded047c49711c6e93429ae35.jar" />
+    </item>
+    <item
+        jar="F:\AndroidDevForStudio\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-6bcc73f690f63f6be4f8b62b74b56ed17f10bd7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\8340e5e1fb9a1d213ae15543a462086d3fe06712\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-71de048c302215927085fc7b3bf0dd4d40e3071c.jar" />
+    </item>
+    <item
+        jar="F:\AndroidDevForStudio\Android\sdk\platforms\android-26\android.jar"
+        revision="26.0.0"
+        sha1="18eaee6ff2a1c15c603daafb41277ea9376f30b5">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-86cac4a0175d7242ed074f588c5231ecd15c1a18.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\2116a02eeb1da454c64f9adde9a6b1fde91e4fa3\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-7ba12ee79480677650b5a2726cbe20be92a30892.jar" />
+    </item>
+    <item
+        jar="C:\Users\黄辉\.android\build-cache\4df0af9c66f556fc072dfbe3838a9b0a7e35913d\output\jars\classes.jar"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8f7f238f3f9f4fad332ad22bc9906203f9d1a219.jar" />
+    </item>
+
+</items>

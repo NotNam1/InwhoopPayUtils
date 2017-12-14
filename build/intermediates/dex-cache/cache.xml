@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\2b728d02425861e3636f21ed218dd83eb8ef9478\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_396769311b0bfcfff8fada09a7da572db38cbd8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_ee634697001b8de9bd45e5416cd4f6a5cce95f9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\gson-2.4_ed665ac948a43d64ad93b891695a51d2f92ff592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\803804c27221b50278b18d8fa87b9d542b2d2ada\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_a72a12cab9af776d461f85a1b0407ae609a8e739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\510eb16c62755f14c445ae272b70d437616eafbb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_0a8f167a9fed14caa4514c751aaee208b4a06725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\4bab74375e90a574b71c1dfaf5de5208f02bb92e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="379d026596d204cf421ba7b918e8195a659089ce">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_de6ce2aca49c6efb070de4664b4cb2a753febcaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Company\PayTool\paytools\build\intermediates\bundles\default\libs\alipaySdk-20170922.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a1c90a1f8c5447cb60148c53ffab293dd2c5807">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\alipaySdk-20170922_9401d6c5381a38c8e7c2025237d992db16986be5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_6bcc73f690f63f6be4f8b62b74b56ed17f10bd7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\b25facf1921d9035839bf70a9f31e8b39aa1b9a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_6cdfb25c9310e2259162dbd3d2caf9557ef5507b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Company\PayTool\paytools\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2021947df75353ebd5828b580320eb8a9d05a4b2">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_9c5401ac30daccfc9064d95243e23d46fe247f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4_87d849d414f0c462bf274c2818591da180f9c2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\64a67c7f97a816cc9e9862b838508aa9ce992a9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e549efd7ac4d8a6b5254bc16c26f5ba098b1f10a">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_4d0d0ab80f7025112b7b7f59a598b7de2eecb047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.0-beta4_7eafd17ce58749c1213aada5ac70f7fa2657cc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\401fdb4ba3213fe6d15e7c69bfba4c68110f3a8d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_1622f952df6be00ab82f25c5808966df0b104210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\4df0af9c66f556fc072dfbe3838a9b0a7e35913d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_8f7f238f3f9f4fad332ad22bc9906203f9d1a219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\8593afc336f771e0bc3d3f57e1793c73bb7b16e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cb698597bf429f71793a87217f63a28cf7de0916">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_77144d8c52d0111b5f7cf10435af6f17c9c5bbe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\okio-1.9.0_f3b4f094afb3515e229c0cbf559bd015a5ac7742.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Company\PayTool\paytools\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7fcc43d6b35e63234b97bf80f2d60f4df612ef47">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_9c5401ac30daccfc9064d95243e23d46fe247f2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\13a538ea5b9e3c28cff9cfc9311032283ec8c2cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_ed64d6e6fdf0d705c72483770bb2a5d8ec88c4a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\6b6ba83c73962daa5d275fef7f1115a65f279f74\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_a7769274d4830819f484831439dddd1329149ed3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\2116a02eeb1da454c64f9adde9a6b1fde91e4fa3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_7ba12ee79480677650b5a2726cbe20be92a30892.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\8340e5e1fb9a1d213ae15543a462086d3fe06712\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_71de048c302215927085fc7b3bf0dd4d40e3071c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\黄辉\.android\build-cache\5be9a312086e51d9903462f08f7a2b6a51e73181\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\classes_bc7b23ebd1ecff1dded047c49711c6e93429ae35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_791dd572f975b64ad5d1f9fb1d60bbd6cf92dd88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AndroidDevForStudio\Android\Android Studio\gradle\gradle-3.3\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.0\42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8\rxjava-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42bfaf64c94f3848ebf5cf1c2ea4ec9d1b3ac6c8">
+        <dex dex="F:\Company\PayTool\app\build\intermediates\pre-dexed\debug\rxjava-1.2.0_e8bf353082bcc9a83f43dc77226aef52a12224ec.jar" />
+    </item>
+
+</items>

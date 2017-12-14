@@ -11,5 +11,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.NotNam1:InwhoopPayUtils:-SNAPSHOT'
+	       compile 'com.github.NotNam1:InwhoopPayUtils:v0.1'
 	}
+	
+支付宝 AlipayTool
